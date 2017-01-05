@@ -1,0 +1,7 @@
+[
+  {"name":"doi","title":"DOI"},
+  {"name":"title","title":"Title"},
+  {"name":"authors","title":"Authors"},
+  {"name":"org","title":"Organization"},
+  {"name":"year","title":"Year"}
+]

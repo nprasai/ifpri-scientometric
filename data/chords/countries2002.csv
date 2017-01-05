@@ -1,0 +1,695 @@
+who,overlap,years,color
+Argentina,India,2,#333333
+Argentina,England,2,#333333
+Argentina,France,1,#333333
+Argentina,Germany,1,#333333
+Argentina,USA,2,#333333
+Argentina,Mexico,1,#333333
+Argentina,Australia,2,#333333
+Argentina,Switzerland,1,#333333
+Argentina,Bolivia,1,#333333
+Argentina,Sri Lanka,1,#333333
+Argentina,Trinid & Tobago,1,#333333
+Argentina,Denmark,1,#333333
+Australia,Mexico,5,#333333
+Australia,Netherlands,2,#333333
+Australia,Zimbabwe,1,#333333
+Australia,Syria,1,#333333
+Australia,Sri Lanka,2,#333333
+Australia,Vietnam,1,#333333
+Australia,Colombia,5,#333333
+Australia,England,5,#333333
+Australia,USA,4,#333333
+Australia,Austria,2,#333333
+Australia,India,2,#333333
+Australia,France,1,#333333
+Australia,Germany,1,#333333
+Australia,Argentina,2,#333333
+Australia,Switzerland,1,#333333
+Australia,Indonesia,1,#333333
+Australia,Kenya,3,#333333
+Australia,Trinid & Tobago,1,#333333
+Australia,Denmark,1,#333333
+Australia,Philippines,1,#333333
+Australia,Spain,2,#333333
+Australia,Chile,2,#333333
+Austria,Philippines,1,#333333
+Austria,Australia,2,#333333
+Austria,Colombia,2,#333333
+Austria,USA,1,#333333
+Austria,Peru,1,#333333
+Bangladesh,Philippines,3,#333333
+Belgium,Kenya,3,#333333
+Belgium,Scotland,1,#333333
+Belgium,France,1,#333333
+Belgium,Burkina Faso,1,#333333
+Belgium,Ethiopia,1,#333333
+Belgium,Niger,3,#333333
+Belgium,South Africa,1,#333333
+Belgium,England,1,#333333
+Benin,Nigeria,3,#333333
+Benin,Ghana,1,#333333
+Benin,Kenya,1,#333333
+Benin,Netherlands,1,#333333
+Bolivia,Scotland,1,#333333
+Bolivia,England,1,#333333
+Bolivia,Brazil,2,#333333
+Bolivia,USA,1,#333333
+Bolivia,Panama,1,#333333
+Bolivia,Germany,1,#333333
+Bolivia,Peru,1,#333333
+Bolivia,Ecuador,1,#333333
+Bolivia,Colombia,2,#333333
+Bolivia,Netherlands,1,#333333
+Bolivia,Argentina,1,#333333
+Brazil,Indonesia,3,#333333
+Brazil,England,2,#333333
+Brazil,Germany,2,#333333
+Brazil,Colombia,3,#333333
+Brazil,Philippines,1,#333333
+Brazil,Scotland,2,#333333
+Brazil,Bolivia,2,#333333
+Brazil,USA,2,#333333
+Brazil,Panama,1,#333333
+Brazil,Peru,1,#333333
+Brazil,Ecuador,1,#333333
+Brazil,Netherlands,1,#333333
+Brazil,Kenya,1,#333333
+Brazil,France,1,#333333
+Burkina Faso,Canada,1,#333333
+Burkina Faso,USA,1,#333333
+Burkina Faso,Philippines,1,#333333
+Burkina Faso,Ethiopia,1,#333333
+Burkina Faso,Niger,1,#333333
+Burkina Faso,Belgium,1,#333333
+Cameroon,England,3,#333333
+Cameroon,Kenya,1,#333333
+Cameroon,Nigeria,1,#333333
+Cameroon,Scotland,1,#333333
+Cameroon,Spain,1,#333333
+Canada,Burkina Faso,1,#333333
+Canada,USA,3,#333333
+Canada,Philippines,2,#333333
+Canada,Mexico,1,#333333
+Canada,Kenya,4,#333333
+Canada,Italy,1,#333333
+Canada,Wales,1,#333333
+Canada,Ireland,1,#333333
+Canada,Scotland,1,#333333
+Canada,Switzerland,1,#333333
+Chile,USA,1,#333333
+Chile,Mexico,3,#333333
+Chile,Hungary,1,#333333
+Chile,India,1,#333333
+Chile,Australia,2,#333333
+Chile,Spain,2,#333333
+China,Philippines,12,#333333
+China,Japan,4,#333333
+China,India,1,#333333
+China,USA,2,#333333
+Colombia,USA,6,#333333
+Colombia,England,3,#333333
+Colombia,South Africa,1,#333333
+Colombia,Malawi,2,#333333
+Colombia,Netherlands,6,#333333
+Colombia,Guadeloupe,1,#333333
+Colombia,France,5,#333333
+Colombia,Switzerland,4,#333333
+Colombia,Kenya,1,#333333
+Colombia,Australia,5,#333333
+Colombia,Uganda,1,#333333
+Colombia,Germany,4,#333333
+Colombia,Brazil,3,#333333
+Colombia,Austria,2,#333333
+Colombia,Nigeria,3,#333333
+Colombia,Peru,2,#333333
+Colombia,Mexico,1,#333333
+Colombia,Vietnam,1,#333333
+Colombia,Philippines,1,#333333
+Colombia,Costa Rica,1,#333333
+Colombia,Scotland,1,#333333
+Colombia,Bolivia,2,#333333
+Colombia,Panama,1,#333333
+Colombia,Ecuador,1,#333333
+Costa Rica,Netherlands,1,#333333
+Costa Rica,Scotland,1,#333333
+Costa Rica,Kenya,1,#333333
+Costa Rica,Colombia,1,#333333
+Cote Ivoire,USA,1,#333333
+Cote Ivoire,Italy,1,#333333
+Cote Ivoire,Scotland,1,#333333
+Cote Ivoire,Philippines,1,#333333
+Cote Ivoire,France,1,#333333
+Cote Ivoire,Japan,2,#333333
+Cote Ivoire,Nepal,2,#333333
+Cote Ivoire,Germany,1,#333333
+Cote Ivoire,Pakistan,1,#333333
+Cote Ivoire,Senegal,1,#333333
+Denmark,Sri Lanka,3,#333333
+Denmark,Pakistan,1,#333333
+Denmark,USA,3,#333333
+Denmark,Japan,1,#333333
+Denmark,Philippines,1,#333333
+Denmark,England,2,#333333
+Denmark,Ethiopia,1,#333333
+Denmark,Australia,1,#333333
+Denmark,Trinid & Tobago,1,#333333
+Denmark,Argentina,1,#333333
+Denmark,India,1,#333333
+Denmark,Mozambique,1,#333333
+Ecuador,Scotland,1,#333333
+Ecuador,England,1,#333333
+Ecuador,Brazil,1,#333333
+Ecuador,Bolivia,1,#333333
+Ecuador,USA,1,#333333
+Ecuador,Panama,1,#333333
+Ecuador,Germany,1,#333333
+Ecuador,Peru,1,#333333
+Ecuador,Colombia,1,#333333
+Ecuador,Netherlands,1,#333333
+Egypt,Ethiopia,1,#333333
+England,USA,6,#333333
+England,Honduras,1,#333333
+England,Kenya,9,#333333
+England,Colombia,3,#333333
+England,South Africa,2,#333333
+England,Malawi,1,#333333
+England,Cameroon,3,#333333
+England,Philippines,6,#333333
+England,Indonesia,3,#333333
+England,Brazil,2,#333333
+England,France,2,#333333
+England,Italy,1,#333333
+England,Mexico,3,#333333
+England,Australia,5,#333333
+England,Sri Lanka,3,#333333
+England,Denmark,2,#333333
+England,Sweden,1,#333333
+England,Nigeria,3,#333333
+England,India,3,#333333
+England,Peru,2,#333333
+England,Germany,2,#333333
+England,Argentina,2,#333333
+England,Switzerland,1,#333333
+England,Uganda,1,#333333
+England,Zimbabwe,1,#333333
+England,Scotland,1,#333333
+England,Bolivia,1,#333333
+England,Panama,1,#333333
+England,Ecuador,1,#333333
+England,Netherlands,1,#333333
+England,Trinid & Tobago,1,#333333
+England,Belgium,1,#333333
+England,Wales,1,#333333
+Ethiopia,Nigeria,1,#333333
+Ethiopia,USA,1,#333333
+Ethiopia,Kenya,4,#333333
+Ethiopia,Ireland,1,#333333
+Ethiopia,Mali,1,#333333
+Ethiopia,Denmark,1,#333333
+Ethiopia,Zambia,1,#333333
+Ethiopia,Burkina Faso,1,#333333
+Ethiopia,Niger,1,#333333
+Ethiopia,Belgium,1,#333333
+Ethiopia,Egypt,1,#333333
+France,Peru,2,#333333
+France,Tunisia,1,#333333
+France,Scotland,1,#333333
+France,Cote Ivoire,1,#333333
+France,Philippines,5,#333333
+France,Colombia,5,#333333
+France,Kenya,2,#333333
+France,Italy,1,#333333
+France,England,2,#333333
+France,Belgium,1,#333333
+France,Niger,1,#333333
+France,India,1,#333333
+France,Germany,2,#333333
+France,Argentina,1,#333333
+France,USA,2,#333333
+France,Mexico,2,#333333
+France,Australia,1,#333333
+France,Switzerland,2,#333333
+France,Indonesia,1,#333333
+France,Brazil,1,#333333
+France,Zimbabwe,1,#333333
+Germany,Brazil,2,#333333
+Germany,Colombia,4,#333333
+Germany,Mexico,4,#333333
+Germany,Cote Ivoire,1,#333333
+Germany,Nepal,1,#333333
+Germany,India,4,#333333
+Germany,England,2,#333333
+Germany,France,2,#333333
+Germany,Argentina,1,#333333
+Germany,USA,3,#333333
+Germany,Australia,1,#333333
+Germany,Switzerland,1,#333333
+Germany,Philippines,6,#333333
+Germany,Senegal,1,#333333
+Germany,Nigeria,1,#333333
+Germany,Netherlands,2,#333333
+Germany,Scotland,2,#333333
+Germany,Bolivia,1,#333333
+Germany,Panama,1,#333333
+Germany,Peru,1,#333333
+Germany,Ecuador,1,#333333
+Germany,Kenya,1,#333333
+Germany,Uruguay,1,#333333
+Ghana,Benin,1,#333333
+Ghana,Nigeria,1,#333333
+Guadeloupe,Colombia,1,#333333
+Honduras,England,1,#333333
+Honduras,USA,1,#333333
+Hungary,USA,1,#333333
+Hungary,Chile,1,#333333
+Hungary,Mexico,1,#333333
+Hungary,India,1,#333333
+India,Philippines,9,#333333
+India,Laos,1,#333333
+India,USA,9,#333333
+India,Chile,1,#333333
+India,Mexico,4,#333333
+India,Hungary,1,#333333
+India,England,3,#333333
+India,Peru,1,#333333
+India,China,1,#333333
+India,Syria,1,#333333
+India,France,1,#333333
+India,Germany,4,#333333
+India,Argentina,2,#333333
+India,Australia,2,#333333
+India,Switzerland,1,#333333
+India,Sri Lanka,1,#333333
+India,Trinid & Tobago,1,#333333
+India,Denmark,1,#333333
+India,Japan,1,#333333
+India,Nigeria,1,#333333
+India,Nepal,1,#333333
+Indonesia,Spain,1,#333333
+Indonesia,Brazil,3,#333333
+Indonesia,England,3,#333333
+Indonesia,USA,1,#333333
+Indonesia,Sweden,1,#333333
+Indonesia,Vietnam,1,#333333
+Indonesia,Kenya,1,#333333
+Indonesia,Australia,1,#333333
+Indonesia,France,1,#333333
+Indonesia,Philippines,1,#333333
+Iran,Philippines,1,#333333
+Iran,Mexico,1,#333333
+Ireland,Japan,1,#333333
+Ireland,USA,1,#333333
+Ireland,Kenya,3,#333333
+Ireland,Ethiopia,1,#333333
+Ireland,Canada,1,#333333
+Israel,Kenya,1,#333333
+Israel,Nepal,1,#333333
+Israel,USA,1,#333333
+Italy,Cote Ivoire,1,#333333
+Italy,USA,2,#333333
+Italy,Canada,1,#333333
+Italy,Kenya,1,#333333
+Italy,France,1,#333333
+Italy,England,1,#333333
+Italy,Syria,1,#333333
+Italy,South Korea,3,#333333
+Italy,Malaysia,2,#333333
+Japan,Philippines,15,#333333
+Japan,Kenya,2,#333333
+Japan,USA,4,#333333
+Japan,Ireland,1,#333333
+Japan,Cote Ivoire,2,#333333
+Japan,Denmark,1,#333333
+Japan,China,4,#333333
+Japan,Pakistan,1,#333333
+Japan,Nigeria,1,#333333
+Japan,India,1,#333333
+Japan,Vietnam,1,#333333
+Kenya,England,9,#333333
+Kenya,Philippines,4,#333333
+Kenya,USA,10,#333333
+Kenya,Scotland,8,#333333
+Kenya,Canada,4,#333333
+Kenya,Italy,1,#333333
+Kenya,Japan,2,#333333
+Kenya,Zimbabwe,1,#333333
+Kenya,Ireland,3,#333333
+Kenya,Ethiopia,4,#333333
+Kenya,France,2,#333333
+Kenya,Netherlands,6,#333333
+Kenya,Switzerland,2,#333333
+Kenya,Colombia,1,#333333
+Kenya,Morocco,2,#333333
+Kenya,Wales,1,#333333
+Kenya,Sweden,3,#333333
+Kenya,Cameroon,1,#333333
+Kenya,Belgium,3,#333333
+Kenya,Costa Rica,1,#333333
+Kenya,South Africa,3,#333333
+Kenya,Mali,1,#333333
+Kenya,Thailand,2,#333333
+Kenya,Zambia,1,#333333
+Kenya,Indonesia,1,#333333
+Kenya,Australia,3,#333333
+Kenya,Israel,1,#333333
+Kenya,Nepal,1,#333333
+Kenya,Germany,1,#333333
+Kenya,Syria,1,#333333
+Kenya,Nigeria,1,#333333
+Kenya,Benin,1,#333333
+Kenya,Brazil,1,#333333
+Kenya,Laos,1,#333333
+Laos,Philippines,4,#333333
+Laos,India,1,#333333
+Laos,Kenya,1,#333333
+Laos,Thailand,1,#333333
+Malawi,England,1,#333333
+Malawi,Colombia,2,#333333
+Malawi,South Africa,1,#333333
+Malawi,Netherlands,1,#333333
+Malawi,USA,1,#333333
+Malawi,Nigeria,1,#333333
+Malawi,Peru,1,#333333
+Malawi,Mexico,1,#333333
+Malaysia,Philippines,1,#333333
+Malaysia,South Korea,2,#333333
+Malaysia,Italy,2,#333333
+Mali,Kenya,1,#333333
+Mali,Ethiopia,1,#333333
+Mexico,USA,21,#333333
+Mexico,Australia,5,#333333
+Mexico,Netherlands,3,#333333
+Mexico,Canada,1,#333333
+Mexico,Chile,3,#333333
+Mexico,Hungary,1,#333333
+Mexico,India,4,#333333
+Mexico,England,3,#333333
+Mexico,Germany,4,#333333
+Mexico,Norway,1,#333333
+Mexico,Switzerland,3,#333333
+Mexico,Malawi,1,#333333
+Mexico,Nigeria,1,#333333
+Mexico,Colombia,1,#333333
+Mexico,Peru,1,#333333
+Mexico,France,2,#333333
+Mexico,Argentina,1,#333333
+Mexico,Philippines,1,#333333
+Mexico,Zimbabwe,1,#333333
+Mexico,Thailand,1,#333333
+Mexico,Uruguay,3,#333333
+Mexico,Spain,2,#333333
+Mexico,Iran,1,#333333
+Mexico,Wales,1,#333333
+Morocco,Kenya,2,#333333
+Mozambique,Denmark,1,#333333
+Mozambique,USA,1,#333333
+Nepal,Philippines,3,#333333
+Nepal,Cote Ivoire,2,#333333
+Nepal,Germany,1,#333333
+Nepal,Israel,1,#333333
+Nepal,Kenya,1,#333333
+Nepal,USA,2,#333333
+Nepal,India,1,#333333
+Netherlands,Mexico,3,#333333
+Netherlands,Australia,2,#333333
+Netherlands,Colombia,6,#333333
+Netherlands,Kenya,6,#333333
+Netherlands,Costa Rica,1,#333333
+Netherlands,Scotland,2,#333333
+Netherlands,Philippines,2,#333333
+Netherlands,Vietnam,1,#333333
+Netherlands,USA,5,#333333
+Netherlands,Malawi,1,#333333
+Netherlands,Nigeria,1,#333333
+Netherlands,Peru,2,#333333
+Netherlands,Pakistan,2,#333333
+Netherlands,Germany,2,#333333
+Netherlands,England,1,#333333
+Netherlands,Brazil,1,#333333
+Netherlands,Bolivia,1,#333333
+Netherlands,Panama,1,#333333
+Netherlands,Ecuador,1,#333333
+Netherlands,Benin,1,#333333
+Netherlands,Sri Lanka,1,#333333
+Niger,France,1,#333333
+Niger,Burkina Faso,1,#333333
+Niger,Ethiopia,1,#333333
+Niger,Belgium,3,#333333
+Nigeria,Benin,3,#333333
+Nigeria,Ethiopia,1,#333333
+Nigeria,USA,3,#333333
+Nigeria,Sweden,1,#333333
+Nigeria,England,3,#333333
+Nigeria,Ghana,1,#333333
+Nigeria,Netherlands,1,#333333
+Nigeria,Malawi,1,#333333
+Nigeria,Colombia,3,#333333
+Nigeria,Peru,1,#333333
+Nigeria,Mexico,1,#333333
+Nigeria,Germany,1,#333333
+Nigeria,Zimbabwe,1,#333333
+Nigeria,Cameroon,1,#333333
+Nigeria,Scotland,1,#333333
+Nigeria,Japan,1,#333333
+Nigeria,India,1,#333333
+Nigeria,Syria,1,#333333
+Nigeria,Kenya,1,#333333
+Nigeria,Philippines,1,#333333
+Norway,Mexico,1,#333333
+Pakistan,Sri Lanka,2,#333333
+Pakistan,Denmark,1,#333333
+Pakistan,Cote Ivoire,1,#333333
+Pakistan,Japan,1,#333333
+Pakistan,Netherlands,2,#333333
+Pakistan,Philippines,1,#333333
+Panama,Scotland,1,#333333
+Panama,England,1,#333333
+Panama,Brazil,1,#333333
+Panama,Bolivia,1,#333333
+Panama,USA,1,#333333
+Panama,Germany,1,#333333
+Panama,Peru,1,#333333
+Panama,Ecuador,1,#333333
+Panama,Colombia,1,#333333
+Panama,Netherlands,1,#333333
+Peru,Tunisia,1,#333333
+Peru,France,2,#333333
+Peru,England,2,#333333
+Peru,India,1,#333333
+Peru,USA,4,#333333
+Peru,Austria,1,#333333
+Peru,Netherlands,2,#333333
+Peru,Malawi,1,#333333
+Peru,Nigeria,1,#333333
+Peru,Colombia,2,#333333
+Peru,Mexico,1,#333333
+Peru,Scotland,1,#333333
+Peru,Brazil,1,#333333
+Peru,Bolivia,1,#333333
+Peru,Panama,1,#333333
+Peru,Germany,1,#333333
+Peru,Ecuador,1,#333333
+Peru,Switzerland,1,#333333
+Philippines,Kenya,4,#333333
+Philippines,Laos,4,#333333
+Philippines,India,9,#333333
+Philippines,USA,17,#333333
+Philippines,Canada,2,#333333
+Philippines,Burkina Faso,1,#333333
+Philippines,Japan,15,#333333
+Philippines,Bangladesh,3,#333333
+Philippines,England,6,#333333
+Philippines,China,12,#333333
+Philippines,Scotland,3,#333333
+Philippines,Cote Ivoire,1,#333333
+Philippines,France,5,#333333
+Philippines,Nepal,3,#333333
+Philippines,Denmark,1,#333333
+Philippines,Zimbabwe,1,#333333
+Philippines,Austria,1,#333333
+Philippines,Vietnam,4,#333333
+Philippines,Netherlands,2,#333333
+Philippines,Switzerland,1,#333333
+Philippines,Brazil,1,#333333
+Philippines,Mexico,1,#333333
+Philippines,Germany,6,#333333
+Philippines,Colombia,1,#333333
+Philippines,Malaysia,1,#333333
+Philippines,Iran,1,#333333
+Philippines,Pakistan,1,#333333
+Philippines,Thailand,2,#333333
+Philippines,Syria,1,#333333
+Philippines,Nigeria,1,#333333
+Philippines,Singapore,1,#333333
+Philippines,Australia,1,#333333
+Philippines,Indonesia,1,#333333
+Scotland,Kenya,8,#333333
+Scotland,Cote Ivoire,1,#333333
+Scotland,Philippines,3,#333333
+Scotland,France,1,#333333
+Scotland,Belgium,1,#333333
+Scotland,Netherlands,2,#333333
+Scotland,Costa Rica,1,#333333
+Scotland,Canada,1,#333333
+Scotland,Switzerland,1,#333333
+Scotland,Brazil,2,#333333
+Scotland,England,1,#333333
+Scotland,Bolivia,1,#333333
+Scotland,USA,1,#333333
+Scotland,Panama,1,#333333
+Scotland,Germany,2,#333333
+Scotland,Peru,1,#333333
+Scotland,Ecuador,1,#333333
+Scotland,Colombia,1,#333333
+Scotland,Cameroon,1,#333333
+Scotland,Nigeria,1,#333333
+Senegal,USA,1,#333333
+Senegal,Germany,1,#333333
+Senegal,Cote Ivoire,1,#333333
+Singapore,USA,1,#333333
+Singapore,Philippines,1,#333333
+South Africa,England,2,#333333
+South Africa,Colombia,1,#333333
+South Africa,Malawi,1,#333333
+South Africa,Kenya,3,#333333
+South Africa,Belgium,1,#333333
+South Korea,Italy,3,#333333
+South Korea,Malaysia,2,#333333
+Spain,Indonesia,1,#333333
+Spain,Australia,2,#333333
+Spain,Mexico,2,#333333
+Spain,Chile,2,#333333
+Spain,Cameroon,1,#333333
+Sri Lanka,Thailand,1,#333333
+Sri Lanka,Pakistan,2,#333333
+Sri Lanka,Denmark,3,#333333
+Sri Lanka,Australia,2,#333333
+Sri Lanka,Vietnam,1,#333333
+Sri Lanka,England,3,#333333
+Sri Lanka,Trinid & Tobago,1,#333333
+Sri Lanka,USA,2,#333333
+Sri Lanka,Argentina,1,#333333
+Sri Lanka,India,1,#333333
+Sri Lanka,Netherlands,1,#333333
+Sweden,Kenya,3,#333333
+Sweden,England,1,#333333
+Sweden,Nigeria,1,#333333
+Sweden,Indonesia,1,#333333
+Sweden,Vietnam,1,#333333
+Switzerland,Colombia,4,#333333
+Switzerland,Kenya,2,#333333
+Switzerland,Philippines,1,#333333
+Switzerland,Mexico,3,#333333
+Switzerland,Canada,1,#333333
+Switzerland,Scotland,1,#333333
+Switzerland,India,1,#333333
+Switzerland,England,1,#333333
+Switzerland,France,2,#333333
+Switzerland,Germany,1,#333333
+Switzerland,Argentina,1,#333333
+Switzerland,USA,1,#333333
+Switzerland,Australia,1,#333333
+Switzerland,Peru,1,#333333
+Syria,USA,4,#333333
+Syria,Australia,1,#333333
+Syria,India,1,#333333
+Syria,Italy,1,#333333
+Syria,Kenya,1,#333333
+Syria,Philippines,1,#333333
+Syria,Nigeria,1,#333333
+Thailand,Sri Lanka,1,#333333
+Thailand,USA,1,#333333
+Thailand,Mexico,1,#333333
+Thailand,Kenya,2,#333333
+Thailand,Philippines,2,#333333
+Thailand,Vietnam,1,#333333
+Thailand,Laos,1,#333333
+Trinid & Tobago,England,1,#333333
+Trinid & Tobago,Sri Lanka,1,#333333
+Trinid & Tobago,Australia,1,#333333
+Trinid & Tobago,Denmark,1,#333333
+Trinid & Tobago,USA,1,#333333
+Trinid & Tobago,Argentina,1,#333333
+Trinid & Tobago,India,1,#333333
+Tunisia,Peru,1,#333333
+Tunisia,France,1,#333333
+USA,Mexico,21,#333333
+USA,England,6,#333333
+USA,Honduras,1,#333333
+USA,Colombia,6,#333333
+USA,Philippines,17,#333333
+USA,Canada,3,#333333
+USA,Burkina Faso,1,#333333
+USA,Cote Ivoire,1,#333333
+USA,Italy,2,#333333
+USA,Kenya,10,#333333
+USA,Syria,4,#333333
+USA,Zimbabwe,3,#333333
+USA,Japan,4,#333333
+USA,Ireland,1,#333333
+USA,Nigeria,3,#333333
+USA,Ethiopia,1,#333333
+USA,India,9,#333333
+USA,Chile,1,#333333
+USA,Hungary,1,#333333
+USA,Senegal,1,#333333
+USA,Denmark,3,#333333
+USA,Australia,4,#333333
+USA,Netherlands,5,#333333
+USA,Indonesia,1,#333333
+USA,Austria,1,#333333
+USA,Peru,4,#333333
+USA,Malawi,1,#333333
+USA,France,2,#333333
+USA,Germany,3,#333333
+USA,Argentina,2,#333333
+USA,Switzerland,1,#333333
+USA,Thailand,1,#333333
+USA,Uruguay,1,#333333
+USA,Vietnam,1,#333333
+USA,Scotland,1,#333333
+USA,Brazil,2,#333333
+USA,Bolivia,1,#333333
+USA,Panama,1,#333333
+USA,Ecuador,1,#333333
+USA,Israel,1,#333333
+USA,Nepal,2,#333333
+USA,Sri Lanka,2,#333333
+USA,Trinid & Tobago,1,#333333
+USA,Singapore,1,#333333
+USA,Uganda,1,#333333
+USA,Mozambique,1,#333333
+USA,China,2,#333333
+Uganda,Colombia,1,#333333
+Uganda,England,1,#333333
+Uganda,USA,1,#333333
+Uruguay,Mexico,3,#333333
+Uruguay,USA,1,#333333
+Uruguay,Germany,1,#333333
+Vietnam,Australia,1,#333333
+Vietnam,Sri Lanka,1,#333333
+Vietnam,Philippines,4,#333333
+Vietnam,Netherlands,1,#333333
+Vietnam,Sweden,1,#333333
+Vietnam,Indonesia,1,#333333
+Vietnam,USA,1,#333333
+Vietnam,Colombia,1,#333333
+Vietnam,Thailand,1,#333333
+Vietnam,Japan,1,#333333
+Wales,Canada,1,#333333
+Wales,Kenya,1,#333333
+Wales,England,1,#333333
+Wales,Mexico,1,#333333
+Zambia,Kenya,1,#333333
+Zambia,Ethiopia,1,#333333
+Zambia,Zimbabwe,1,#333333
+Zimbabwe,Kenya,1,#333333
+Zimbabwe,USA,3,#333333
+Zimbabwe,Australia,1,#333333
+Zimbabwe,Philippines,1,#333333
+Zimbabwe,Mexico,1,#333333
+Zimbabwe,Nigeria,1,#333333
+Zimbabwe,England,1,#333333
+Zimbabwe,Zambia,1,#333333
+Zimbabwe,France,1,#333333

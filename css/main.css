@@ -1,0 +1,202 @@
+      @import url(http://fonts.googleapis.com/css?family=Source+Code+Pro:400,600);
+      body {font-family: "Source Code Pro", Consolas, monaco, monospace; line-height: 160%; font-size: 14px;  margin: 0; }
+      #tooltip {
+        color: #454545;
+        opacity: .9;
+        background: #eee;
+        padding: 5px;
+        border: none;
+        border-radius: 5px;
+        position: absolute;
+        z-index: 10;
+        visibility: hidden;
+        white-space: nowrap;
+        pointer-events: none;
+      }
+      p {
+        text-align:justify;
+        font-family: 'PT Sans Narrow', sans-serif;
+        line-height: 28px;
+        font-size: 18px;
+      }
+      #circle circle {
+        fill: none;
+        pointer-events: all;
+        cursor: pointer;
+      }
+      path.group {
+        fill-opacity: .8;
+        cursor: pointer;
+      }
+      path.chord {
+        fill-opacity: .8;
+        stroke: #000;
+        stroke-width: .25px;
+        cursor: pointer;
+      }
+      #circle:hover path.fade {
+        display: none;
+        cursor: pointer;
+      }
+      #content {
+        width:1024px;
+        height:800px;
+        text-align:center;
+      }
+      #header {
+        margin-top:20px;
+        width:100%;
+        float:left;
+        clear:both;
+      }
+      #nav {
+        margin-top:20px;
+        width:100%;
+        background-color: #bf411e;
+        float:left;
+        border-top: solid 1px #89a527;
+        border-bottom: solid 1px #89a527;
+        text-align: center;
+      }
+      #wrapper {
+        width:1024px;
+        position:absolute;
+        margin-left:50%;
+        left: -512px;
+      }
+      .navitem {
+        float:left;
+        padding-left:20px;
+        padding-right:20px;
+        border-right:solid 1px #fff;
+        padding-top:15px;
+        padding-bottom:15px;
+        color:#fff;
+        font-size: 17px;
+        font-family: 'PT Sans Narrow', sans-serif;
+        cursor: pointer;
+      }
+      .navitem-dead {
+        float:left;
+        padding-left:20px;
+        padding-right:20px;
+        border-right:solid 1px #fff;
+        padding-top:15px;
+        padding-bottom:15px;
+        color:#fff;
+        font-size: 17px;
+      }
+      .navitem:hover {
+        background-color:#8aa63d;
+      }
+      #timeslider {
+        float:right;
+        height:400px;
+        margin-top:70px;
+        margin-right: -15px;
+      }
+      #timeslider2 {
+        float:right;
+        right:0px;
+        position:absolute;
+        top:320px;
+        height:400px;
+      }
+      #diagram {
+        float:left;
+        min-width:900px;
+      }
+      .btncrp {
+        width:70px;
+        padding: 10px 20px;
+        margin:10px;
+        border: solid 1px #ccc;
+        border-radius: 5px;
+        text-align:center;
+        background-color:#eee;
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size:16px;
+      }
+      .btncrp:hover {
+        background-color:#ccc;
+        cursor:pointer;
+      }
+      #sliderttext {
+        font-size:40px;
+        margin-top:20px;
+        min-height: 50px;
+        float:right;
+        color:#333;
+        font-family: 'PT Sans Narrow', sans-serif;
+      }
+      #sliderttext2 {
+        font-size:40px;
+        margin-top:280px;
+        min-height: 50px;
+        position:absolute;
+        float:right;
+        right:0px;
+        color:#333;
+        font-family: 'PT Sans Narrow', sans-serif;
+      }
+      #sometext {
+        color:#333;
+        font-family: 'PT Sans Narrow', sans-serif;
+        width:100%;
+        font-size: 18px;
+        padding-top:10px;
+        float:left;
+        text-align: justify;
+      }
+      #home {
+        color:#333;
+        font-family: 'PT Sans Narrow', sans-serif;
+        width:100%;
+        font-size: 18px;
+        padding-top:20px;
+        text-align: justify;
+        float:left;
+      }
+      #footer {
+        width:100%;
+        height:40px;
+        background-color:#999;
+       font-family: 'PT Sans Narrow', sans-serif;
+       font-size: 18px;
+       color:#fff;
+      }
+      #streampapers {
+        width: 100%;
+        height:300px;
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 18px;
+        float:left;
+        text-align:left;
+        overflow-x: hidden;
+        overflow-y: true;
+      }
+      #papertitles {
+          font-family: 'PT Sans Narrow', sans-serif;
+          font-size: 22px;
+          font-weight: bold;
+          text-align:left;
+          margin-left: 20px;
+          margin-bottom:10px;
+      }
+      #freezechart {
+          z-index:100;
+          position:absolute;
+          margin-left:50%;
+          left: -512px;
+          top: 210px;
+          width:1024px;
+          height:460px;
+          visibility: hidden;
+          opacity: 0.5;
+          background-color: #fff;
+      }
+      a {
+        color: #bf411e;
+      }
+      aside {padding: 20px;}
+      h1, h3 {font-size: 14px; font-weight: normal; padding-left: 40px;}

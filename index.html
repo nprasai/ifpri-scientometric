@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
+    <link href="css/footable.standalone.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/slider.css">
+  </head>
+  <body>
+    <div id="wrapper">
+      <div id="header">
+        <a href="http://www.ifpri.org/" target="_blank"><img src="img/ifpri.png" style='float:left;margin:3px;'/></a>
+        <a href="http://www.cgiar.org/" target="_blank"><img src="img/pim.png" style='float:left;margin:3px;margin-left:3px'/></a>
+        <div style="float:right;padding-top:50px;">
+          <span style="font-family: 'Fjalla One', sans-serif;font-size:50px;color:#666">SCIENTOMETRIC TRENDS</span><br/>
+          <span style="float:right;font-family: 'Fjalla One', sans-serif;font-size:15px;color:#888">Visual analytics of CGIAR publications</span>
+        </div>
+      </div>
+
+      <div id="nav">
+        <div class='navitem-dead'>&nbsp;</div>
+        <div class='navitem' onclick='loadHome();'>HOME</div>
+        <div class='navitem' onclick='loadChord();'>YEARLY COLLABORATIONS</div>
+        <div class='navitem' onclick='loadChordCRP();'>CRP COLLABORATIONS</div>
+        <div class='navitem' onclick='loadTable();'>TABLE VIEW</div>
+        <div class='navitem' onclick='loadStreamGraph();'>KEYWORD TRENDS</div>
+        <div class='navitem' onclick='loadAbout();'>ABOUT</div>
+      </div>
+      <div id="sometext"></div>
+      <div id="content">
+      </div>
+    </div>
+
+    <div id="tooltip"></div>
+    <script src="js/d3.min.js"></script>
+    <script src="js/underscore-min.js"></script>
+    <script src="js/d3.slider.js"></script>
+    <script src="js/colorbrewer.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="js/footable.min.js"></script>
+    <script src="text.js"></script>
+    <script src="js/mapper.js"></script>
+    <script src="js/home.js"></script>
+    <script src="js/about.js"></script>
+    <script src="js/loadchorddata.js"></script>
+    <script src="js/chord.js"></script>
+    <script src="js/chordcrp.js"></script>
+    <script src="js/table.js"></script>
+    <script src="js/streamgraph.js"></script>
+
+
+  </body>
+</html>

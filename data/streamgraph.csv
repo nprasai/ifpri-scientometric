@@ -1,0 +1,511 @@
+key,value,date
+anthropology,2,01/10/00
+anthropology,1,01/11/01
+anthropology,0,01/12/02
+anthropology,2,01/13/03
+anthropology,4,01/14/04
+anthropology,3,01/15/05
+anthropology,3,01/16/06
+anthropology,4,01/17/07
+anthropology,4,01/18/08
+anthropology,1,01/19/09
+anthropology,3,01/20/10
+anthropology,0,01/21/11
+anthropology,2,01/22/12
+anthropology,2,01/23/13
+anthropology,5,01/24/14
+anthropology,4,01/25/15
+anthropology,3,01/26/16
+biochemistry & molecular/cell biology,13,01/10/00
+biochemistry & molecular/cell biology,8,01/11/01
+biochemistry & molecular/cell biology,13,01/12/02
+biochemistry & molecular/cell biology,17,01/13/03
+biochemistry & molecular/cell biology,24,01/14/04
+biochemistry & molecular/cell biology,29,01/15/05
+biochemistry & molecular/cell biology,18,01/16/06
+biochemistry & molecular/cell biology,13,01/17/07
+biochemistry & molecular/cell biology,11,01/18/08
+biochemistry & molecular/cell biology,15,01/19/09
+biochemistry & molecular/cell biology,14,01/20/10
+biochemistry & molecular/cell biology,20,01/21/11
+biochemistry & molecular/cell biology,17,01/22/12
+biochemistry & molecular/cell biology,7,01/23/13
+biochemistry & molecular/cell biology,13,01/24/14
+biochemistry & molecular/cell biology,25,01/25/15
+biochemistry & molecular/cell biology,17,01/26/16
+biodiversity & conservation,3,01/10/00
+biodiversity & conservation,1,01/11/01
+biodiversity & conservation,1,01/12/02
+biodiversity & conservation,4,01/13/03
+biodiversity & conservation,1,01/14/04
+biodiversity & conservation,3,01/15/05
+biodiversity & conservation,8,01/16/06
+biodiversity & conservation,6,01/17/07
+biodiversity & conservation,9,01/18/08
+biodiversity & conservation,8,01/19/09
+biodiversity & conservation,11,01/20/10
+biodiversity & conservation,11,01/21/11
+biodiversity & conservation,11,01/22/12
+biodiversity & conservation,7,01/23/13
+biodiversity & conservation,14,01/24/14
+biodiversity & conservation,11,01/25/15
+biodiversity & conservation,6,01/26/16
+biotechnology & applied microbiology,16,01/10/00
+biotechnology & applied microbiology,17,01/11/01
+biotechnology & applied microbiology,10,01/12/02
+biotechnology & applied microbiology,14,01/13/03
+biotechnology & applied microbiology,16,01/14/04
+biotechnology & applied microbiology,18,01/15/05
+biotechnology & applied microbiology,34,01/16/06
+biotechnology & applied microbiology,20,01/17/07
+biotechnology & applied microbiology,32,01/18/08
+biotechnology & applied microbiology,22,01/19/09
+biotechnology & applied microbiology,35,01/20/10
+biotechnology & applied microbiology,51,01/21/11
+biotechnology & applied microbiology,18,01/22/12
+biotechnology & applied microbiology,18,01/23/13
+biotechnology & applied microbiology,14,01/24/14
+biotechnology & applied microbiology,26,01/25/15
+biotechnology & applied microbiology,23,01/26/16
+business & economics,29,01/10/00
+business & economics,44,01/11/01
+business & economics,31,01/12/02
+business & economics,60,01/13/03
+business & economics,34,01/14/04
+business & economics,42,01/15/05
+business & economics,43,01/16/06
+business & economics,53,01/17/07
+business & economics,62,01/18/08
+business & economics,48,01/19/09
+business & economics,58,01/20/10
+business & economics,77,01/21/11
+business & economics,89,01/22/12
+business & economics,86,01/23/13
+business & economics,122,01/24/14
+business & economics,131,01/25/15
+business & economics,68,01/26/16
+chemistry,12,01/10/00
+chemistry,7,01/11/01
+chemistry,6,01/12/02
+chemistry,6,01/13/03
+chemistry,7,01/14/04
+chemistry,10,01/15/05
+chemistry,12,01/16/06
+chemistry,8,01/17/07
+chemistry,11,01/18/08
+chemistry,20,01/19/09
+chemistry,12,01/20/10
+chemistry,11,01/21/11
+chemistry,13,01/22/12
+chemistry,14,01/23/13
+chemistry,13,01/24/14
+chemistry,19,01/25/15
+chemistry,22,01/26/16
+computer science,1,01/10/00
+computer science,0,01/11/01
+computer science,4,01/12/02
+computer science,3,01/13/03
+computer science,2,01/14/04
+computer science,2,01/15/05
+computer science,1,01/16/06
+computer science,6,01/17/07
+computer science,1,01/18/08
+computer science,3,01/19/09
+computer science,0,01/20/10
+computer science,3,01/21/11
+computer science,2,01/22/12
+computer science,2,01/23/13
+computer science,2,01/24/14
+computer science,3,01/25/15
+computer science,4,01/26/16
+energy & fuels,0,01/10/00
+energy & fuels,0,01/11/01
+energy & fuels,0,01/12/02
+energy & fuels,2,01/13/03
+energy & fuels,0,01/14/04
+energy & fuels,1,01/15/05
+energy & fuels,0,01/16/06
+energy & fuels,2,01/17/07
+energy & fuels,1,01/18/08
+energy & fuels,3,01/19/09
+energy & fuels,2,01/20/10
+energy & fuels,6,01/21/11
+energy & fuels,5,01/22/12
+energy & fuels,5,01/23/13
+energy & fuels,3,01/24/14
+energy & fuels,5,01/25/15
+energy & fuels,9,01/26/16
+engineering,5,01/10/00
+engineering,4,01/11/01
+engineering,9,01/12/02
+engineering,11,01/13/03
+engineering,9,01/14/04
+engineering,8,01/15/05
+engineering,12,01/16/06
+engineering,13,01/17/07
+engineering,11,01/18/08
+engineering,20,01/19/09
+engineering,23,01/20/10
+engineering,26,01/21/11
+engineering,19,01/22/12
+engineering,31,01/23/13
+engineering,27,01/24/14
+engineering,21,01/25/15
+engineering,18,01/26/16
+entomology,18,01/10/00
+entomology,20,01/11/01
+entomology,19,01/12/02
+entomology,25,01/13/03
+entomology,17,01/14/04
+entomology,20,01/15/05
+entomology,24,01/16/06
+entomology,17,01/17/07
+entomology,10,01/18/08
+entomology,20,01/19/09
+entomology,20,01/20/10
+entomology,22,01/21/11
+entomology,20,01/22/12
+entomology,20,01/23/13
+entomology,16,01/24/14
+entomology,17,01/25/15
+entomology,11,01/26/16
+environmental sciences & ecology,24,01/10/00
+environmental sciences & ecology,33,01/11/01
+environmental sciences & ecology,43,01/12/02
+environmental sciences & ecology,58,01/13/03
+environmental sciences & ecology,49,01/14/04
+environmental sciences & ecology,44,01/15/05
+environmental sciences & ecology,69,01/16/06
+environmental sciences & ecology,51,01/17/07
+environmental sciences & ecology,88,01/18/08
+environmental sciences & ecology,89,01/19/09
+environmental sciences & ecology,77,01/20/10
+environmental sciences & ecology,90,01/21/11
+environmental sciences & ecology,112,01/22/12
+environmental sciences & ecology,138,01/23/13
+environmental sciences & ecology,136,01/24/14
+environmental sciences & ecology,148,01/25/15
+environmental sciences & ecology,96,01/26/16
+fisheries,1,01/10/00
+fisheries,4,01/11/01
+fisheries,2,01/12/02
+fisheries,6,01/13/03
+fisheries,9,01/14/04
+fisheries,8,01/15/05
+fisheries,35,01/16/06
+fisheries,28,01/17/07
+fisheries,21,01/18/08
+fisheries,25,01/19/09
+fisheries,25,01/20/10
+fisheries,18,01/21/11
+fisheries,11,01/22/12
+fisheries,8,01/23/13
+fisheries,20,01/24/14
+fisheries,10,01/25/15
+fisheries,4,01/26/16
+food science & technology,19,01/10/00
+food science & technology,9,01/11/01
+food science & technology,11,01/12/02
+food science & technology,14,01/13/03
+food science & technology,17,01/14/04
+food science & technology,20,01/15/05
+food science & technology,19,01/16/06
+food science & technology,40,01/17/07
+food science & technology,31,01/18/08
+food science & technology,53,01/19/09
+food science & technology,36,01/20/10
+food science & technology,49,01/21/11
+food science & technology,45,01/22/12
+food science & technology,66,01/23/13
+food science & technology,68,01/24/14
+food science & technology,70,01/25/15
+food science & technology,44,01/26/16
+forestry,9,01/10/00
+forestry,10,01/11/01
+forestry,11,01/12/02
+forestry,28,01/13/03
+forestry,19,01/14/04
+forestry,23,01/15/05
+forestry,27,01/16/06
+forestry,10,01/17/07
+forestry,25,01/18/08
+forestry,29,01/19/09
+forestry,22,01/20/10
+forestry,44,01/21/11
+forestry,40,01/22/12
+forestry,33,01/23/13
+forestry,40,01/24/14
+forestry,49,01/25/15
+forestry,18,01/26/16
+genetics & heredity,24,01/10/00
+genetics & heredity,33,01/11/01
+genetics & heredity,20,01/12/02
+genetics & heredity,31,01/13/03
+genetics & heredity,28,01/14/04
+genetics & heredity,28,01/15/05
+genetics & heredity,42,01/16/06
+genetics & heredity,26,01/17/07
+genetics & heredity,29,01/18/08
+genetics & heredity,25,01/19/09
+genetics & heredity,49,01/20/10
+genetics & heredity,48,01/21/11
+genetics & heredity,60,01/22/12
+genetics & heredity,44,01/23/13
+genetics & heredity,47,01/24/14
+genetics & heredity,60,01/25/15
+genetics & heredity,30,01/26/16
+geography & remote sensing,4,01/10/00
+geography & remote sensing,4,01/11/01
+geography & remote sensing,7,01/12/02
+geography & remote sensing,6,01/13/03
+geography & remote sensing,3,01/14/04
+geography & remote sensing,8,01/15/05
+geography & remote sensing,11,01/16/06
+geography & remote sensing,13,01/17/07
+geography & remote sensing,9,01/18/08
+geography & remote sensing,17,01/19/09
+geography & remote sensing,14,01/20/10
+geography & remote sensing,19,01/21/11
+geography & remote sensing,16,01/22/12
+geography & remote sensing,13,01/23/13
+geography & remote sensing,30,01/24/14
+geography & remote sensing,17,01/25/15
+geography & remote sensing,21,01/26/16
+geology,5,01/10/00
+geology,3,01/11/01
+geology,5,01/12/02
+geology,6,01/13/03
+geology,7,01/14/04
+geology,8,01/15/05
+geology,9,01/16/06
+geology,6,01/17/07
+geology,11,01/18/08
+geology,15,01/19/09
+geology,14,01/20/10
+geology,12,01/21/11
+geology,12,01/22/12
+geology,18,01/23/13
+geology,12,01/24/14
+geology,18,01/25/15
+geology,18,01/26/16
+imaging science & photographic technology,0,01/10/00
+imaging science & photographic technology,1,01/11/01
+imaging science & photographic technology,1,01/12/02
+imaging science & photographic technology,1,01/13/03
+imaging science & photographic technology,3,01/14/04
+imaging science & photographic technology,5,01/15/05
+imaging science & photographic technology,2,01/16/06
+imaging science & photographic technology,2,01/17/07
+imaging science & photographic technology,1,01/18/08
+imaging science & photographic technology,4,01/19/09
+imaging science & photographic technology,2,01/20/10
+imaging science & photographic technology,5,01/21/11
+imaging science & photographic technology,2,01/22/12
+imaging science & photographic technology,3,01/23/13
+imaging science & photographic technology,2,01/24/14
+imaging science & photographic technology,1,01/25/15
+imaging science & photographic technology,1,01/26/16
+information science & library science,1,01/10/00
+information science & library science,1,01/11/01
+information science & library science,1,01/12/02
+information science & library science,0,01/13/03
+information science & library science,0,01/14/04
+information science & library science,1,01/15/05
+information science & library science,0,01/16/06
+information science & library science,1,01/17/07
+information science & library science,2,01/18/08
+information science & library science,1,01/19/09
+information science & library science,0,01/20/10
+information science & library science,2,01/21/11
+information science & library science,1,01/22/12
+information science & library science,0,01/23/13
+information science & library science,2,01/24/14
+information science & library science,1,01/25/15
+information science & library science,0,01/26/16
+international relations,1,01/10/00
+international relations,0,01/11/01
+international relations,0,01/12/02
+international relations,0,01/13/03
+international relations,1,01/14/04
+international relations,1,01/15/05
+international relations,2,01/16/06
+international relations,1,01/17/07
+international relations,2,01/18/08
+international relations,3,01/19/09
+international relations,5,01/20/10
+international relations,2,01/21/11
+international relations,6,01/22/12
+international relations,3,01/23/13
+international relations,1,01/24/14
+international relations,1,01/25/15
+international relations,6,01/26/16
+mathematical & computational biology,0,01/10/00
+mathematical & computational biology,1,01/11/01
+mathematical & computational biology,0,01/12/02
+mathematical & computational biology,2,01/13/03
+mathematical & computational biology,2,01/14/04
+mathematical & computational biology,1,01/15/05
+mathematical & computational biology,1,01/16/06
+mathematical & computational biology,1,01/17/07
+mathematical & computational biology,2,01/18/08
+mathematical & computational biology,2,01/19/09
+mathematical & computational biology,0,01/20/10
+mathematical & computational biology,2,01/21/11
+mathematical & computational biology,1,01/22/12
+mathematical & computational biology,1,01/23/13
+mathematical & computational biology,2,01/24/14
+mathematical & computational biology,2,01/25/15
+mathematical & computational biology,0,01/26/16
+mathematics,0,01/10/00
+mathematics,1,01/11/01
+mathematics,2,01/12/02
+mathematics,3,01/13/03
+mathematics,2,01/14/04
+mathematics,2,01/15/05
+mathematics,2,01/16/06
+mathematics,2,01/17/07
+mathematics,3,01/18/08
+mathematics,0,01/19/09
+mathematics,2,01/20/10
+mathematics,2,01/21/11
+mathematics,2,01/22/12
+mathematics,3,01/23/13
+mathematics,1,01/24/14
+mathematics,8,01/25/15
+mathematics,2,01/26/16
+meteorology & atmospheric sciences,2,01/10/00
+meteorology & atmospheric sciences,2,01/11/01
+meteorology & atmospheric sciences,6,01/12/02
+meteorology & atmospheric sciences,4,01/13/03
+meteorology & atmospheric sciences,6,01/14/04
+meteorology & atmospheric sciences,3,01/15/05
+meteorology & atmospheric sciences,5,01/16/06
+meteorology & atmospheric sciences,6,01/17/07
+meteorology & atmospheric sciences,6,01/18/08
+meteorology & atmospheric sciences,17,01/19/09
+meteorology & atmospheric sciences,6,01/20/10
+meteorology & atmospheric sciences,5,01/21/11
+meteorology & atmospheric sciences,11,01/22/12
+meteorology & atmospheric sciences,25,01/23/13
+meteorology & atmospheric sciences,17,01/24/14
+meteorology & atmospheric sciences,21,01/25/15
+meteorology & atmospheric sciences,10,01/26/16
+nutrition & dietetics,15,01/10/00
+nutrition & dietetics,8,01/11/01
+nutrition & dietetics,11,01/12/02
+nutrition & dietetics,10,01/13/03
+nutrition & dietetics,9,01/14/04
+nutrition & dietetics,21,01/15/05
+nutrition & dietetics,6,01/16/06
+nutrition & dietetics,20,01/17/07
+nutrition & dietetics,19,01/18/08
+nutrition & dietetics,24,01/19/09
+nutrition & dietetics,24,01/20/10
+nutrition & dietetics,25,01/21/11
+nutrition & dietetics,23,01/22/12
+nutrition & dietetics,36,01/23/13
+nutrition & dietetics,52,01/24/14
+nutrition & dietetics,33,01/25/15
+nutrition & dietetics,25,01/26/16
+plant sciences,89,01/10/00
+plant sciences,97,01/11/01
+plant sciences,81,01/12/02
+plant sciences,109,01/13/03
+plant sciences,98,01/14/04
+plant sciences,103,01/15/05
+plant sciences,113,01/16/06
+plant sciences,130,01/17/07
+plant sciences,121,01/18/08
+plant sciences,113,01/19/09
+plant sciences,161,01/20/10
+plant sciences,138,01/21/11
+plant sciences,138,01/22/12
+plant sciences,140,01/23/13
+plant sciences,118,01/24/14
+plant sciences,158,01/25/15
+plant sciences,101,01/26/16
+public administration,8,01/10/00
+public administration,15,01/11/01
+public administration,14,01/12/02
+public administration,18,01/13/03
+public administration,11,01/14/04
+public administration,12,01/15/05
+public administration,15,01/16/06
+public administration,19,01/17/07
+public administration,14,01/18/08
+public administration,23,01/19/09
+public administration,31,01/20/10
+public administration,39,01/21/11
+public administration,40,01/22/12
+public administration,28,01/23/13
+public administration,60,01/24/14
+public administration,67,01/25/15
+public administration,41,01/26/16
+public environmental & occupational health,0,01/10/00
+public environmental & occupational health,0,01/11/01
+public environmental & occupational health,0,01/12/02
+public environmental & occupational health,0,01/13/03
+public environmental & occupational health,0,01/14/04
+public environmental & occupational health,0,01/15/05
+public environmental & occupational health,0,01/16/06
+public environmental & occupational health,0,01/17/07
+public environmental & occupational health,0,01/18/08
+public environmental & occupational health,0,01/19/09
+public environmental & occupational health,0,01/20/10
+public environmental & occupational health,0,01/21/11
+public environmental & occupational health,0,01/22/12
+public environmental & occupational health,0,01/23/13
+public environmental & occupational health,0,01/24/14
+public environmental & occupational health,0,01/25/15
+public environmental & occupational health,0,01/26/16
+social sciences & law,3,01/10/00
+social sciences & law,1,01/11/01
+social sciences & law,1,01/12/02
+social sciences & law,3,01/13/03
+social sciences & law,4,01/14/04
+social sciences & law,6,01/15/05
+social sciences & law,8,01/16/06
+social sciences & law,10,01/17/07
+social sciences & law,12,01/18/08
+social sciences & law,2,01/19/09
+social sciences & law,11,01/20/10
+social sciences & law,6,01/21/11
+social sciences & law,13,01/22/12
+social sciences & law,7,01/23/13
+social sciences & law,12,01/24/14
+social sciences & law,19,01/25/15
+social sciences & law,11,01/26/16
+veterinary sciences,8,01/10/00
+veterinary sciences,18,01/11/01
+veterinary sciences,16,01/12/02
+veterinary sciences,11,01/13/03
+veterinary sciences,13,01/14/04
+veterinary sciences,10,01/15/05
+veterinary sciences,14,01/16/06
+veterinary sciences,16,01/17/07
+veterinary sciences,21,01/18/08
+veterinary sciences,15,01/19/09
+veterinary sciences,18,01/20/10
+veterinary sciences,17,01/21/11
+veterinary sciences,30,01/22/12
+veterinary sciences,19,01/23/13
+veterinary sciences,20,01/24/14
+veterinary sciences,24,01/25/15
+veterinary sciences,28,01/26/16
+water resources,10,01/10/00
+water resources,20,01/11/01
+water resources,23,01/12/02
+water resources,26,01/13/03
+water resources,29,01/14/04
+water resources,29,01/15/05
+water resources,29,01/16/06
+water resources,48,01/17/07
+water resources,43,01/18/08
+water resources,58,01/19/09
+water resources,71,01/20/10
+water resources,49,01/21/11
+water resources,56,01/22/12
+water resources,64,01/23/13
+water resources,61,01/24/14
+water resources,54,01/25/15
+water resources,47,01/26/16
